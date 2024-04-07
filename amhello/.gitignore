@@ -1,0 +1,6 @@
+build-aux/*
+autom4te.cache/*
+configure
+*.swo
+*.swp
+*.swn
